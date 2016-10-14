@@ -25,7 +25,8 @@
   </head>
   <body>
     <div class="container-fluid">
-        <nav class="navbar-inverse navbar-fixed-top"><!--navbar from bootstrap documentation-->
+      <div class="row">  
+      <div class="navbar-inverse navbar-fixed-top"><!--navbar from bootstrap documentation-->
                 <ul class="list-inline navbar-left">
                     <li><a href="#about"><button class="btn">Sean</button></a></li>
                 </ul>
@@ -40,33 +41,35 @@
                 <ul class="list-inline navbar-right">
                     <li>web developer</li>
                 </ul>
-       </nav>
-        <section  id="about">
-            <div class="col-md-8 col-md-offset-2 text-center">
+       </div>
+    </div>
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center" id="about">
                 <h1>Sean P Cook</h1>
                 <p>Let me help you make your dream site into a reality.<br>
                 I love to use code to make the world a better place.<br>
                 I believe being a life long learner is the is the secret to happiness.</p>     
           </div>
-        </section> 
-        <section class="col-md-8 col-md-offset-2 center-block text-center" id="works">
-            <div class="col-md-2 text-center">
+        </div> 
+        <div class="row" id="works">
+            <div class="col-md-3 col-md-offeset-1 text-center">
                 <h1>Games</h1>
                 <p data-height="265" data-theme-id="0" data-slug-hash="rrjVKa" data-default-tab="result" data-user="cooksp53" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/cooksp53/pen/rrjVKa/">tICtACtOE</a> by Sean Cook (<a href="http://codepen.io/cooksp53">@cooksp53</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
               <p data-height="265" data-theme-id="0" data-slug-hash="GjWAxz" data-default-tab="result" data-user="cooksp53" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/cooksp53/pen/GjWAxz/">SimonSez</a> by Sean Cook (<a href="http://codepen.io/cooksp53">@cooksp53</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
             </div>
-            <div class="col-md-2 text-center">
+            <div class="col-md-3 text-center">
                 <h1>Freelance</h1>
                 <a href="https://msgreenclean.github.io/"><img src="https://msgreenclean.github.io/images/msgreenpic.jpg"/></a>
             </div>
-            <div class="col-md-2 text-center">
+            <div class="col-md-3 text-center">
                 <h1>Blog</h1>
                 <a href="https://cooksp53.wordpress.com" target="_blank"><button class="btn">Blog</button></a>
             </div>
-        </section>
-        <section class="col-md-8 col-md-offset-2 text-center" id="contact">
+        </div>
+      <div class="row">  
+      <div class="col-md-8 col-md-offset-2 text-center" id="contact">
                     <h1>Contact Me</h1> <!--Here is the Form section from emailjs-->
                     <form id="myform" class="form" onsubmit="emailjs.sendForm('default_service', 'template_1Fxo8bco', 'myform'); return false;" method="post">
                         <label for="client-name">Name</label>
@@ -78,14 +81,17 @@
                         <input type="submit" class="btn" id="send-button" value="send">
                     </form>
               
-        </section> 
-        <section class="col-md-8 col-md-offset-2 center-block text-center">
+        </div>
+    </div>
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 center-block text-center">
             <h1>Find Me On Social Media</h1>
             
             <a href="https://plus.google.com/u/0/106496061051853390401" target="_blank"><button class="btn">Google+</button></a>
             <a href="https://www.linkedin.com/in/sean-cook-393800128?trk=nav_responsive_tab_profile_pic" target="_blank"><button class="btn">linkedin</button></a>
             <a href="https://twitter.com/cooksp53" target="_blank"><button class="btn">Twitter</button></a>
-        </section>
+        </div>
+      </div>  
     </div>
     
 
