@@ -21,16 +21,13 @@ input.btn {
 img {
   height: 100px
 }
-iframe {
-  width: 100%;
-  height: 100%;
-}
+
 #send-button{
   color: #06f;
 }
 #about {
   padding-bottom: 50px;
-  height: 25%;
+  height: 300px;
   background-image: url("https://farm6.staticflickr.com/5339/30255095631_93eb1776c8_c.jpg");
   background-size: cover;
 }
