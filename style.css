@@ -1,12 +1,13 @@
 
 body {
-    padding-top: 44px; 
-    margin-bottom: 20px;
+    padding-top: 4.4em; 
+    margin-bottom: 2em;
     color: white;
-    text-shadow: 1px 1px black;
+    text-shadow: 0.01em 0.01em black;
+    height: 70em;
     }
 section { 
-  margin: 25px; 
+  margin: 2.5em; 
 }
 
 button {
@@ -15,36 +16,36 @@ button {
 }
 
 input.btn {
-  margin: 30px;
+  margin: 3em;
   background-color: #333;
 }
 img {
-  height: 100px
+  height: 10em;
 }
 h1 {
-  margin: 100px;
+  margin: 10em;
 }
  #soc_btn {
-  margin-bottom: 50px;
+  margin-bottom: 5em;
 }
 #send-button{
   color: #06f;
 }
 #about {
-  padding-bottom: 50px;
-  height: 700px;
+  padding-bottom: 5em;
+  height: 99%;
   background-image: url("https://farm6.staticflickr.com/5339/30255095631_93eb1776c8_c.jpg");
   background-size: cover;
 }
 #works {
   padding-bottom: 50px;
-  height: 700px;
+  height: 99%;
   background-image: url("https://farm6.staticflickr.com/5656/30255094261_3253e80237_b.jpg");
   background-size: cover;
 }
 #contact {
   padding-bottom: 50px;
-  height: 700px;
+  height: 99%;
   background-image: url("https://farm9.staticflickr.com/8271/30255080501_0b91718442_z.jpg");
   background-size: cover;
 }
