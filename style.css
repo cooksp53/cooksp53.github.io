@@ -1,3 +1,9 @@
+@media only screen and (max-width: 480px) {
+  * {
+    margin: 0em;
+    padding: 0em;
+  }
+}
 * {
   -webkit-box-sizing: content-box;
      -moz-box-sizing: content-box;
