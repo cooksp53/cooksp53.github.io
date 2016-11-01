@@ -1,4 +1,8 @@
-
+* {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
 body {
     padding-top: 4em; 
     margin-bottom: 2em;
