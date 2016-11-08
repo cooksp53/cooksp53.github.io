@@ -21,6 +21,7 @@ input.btn {
 }
 img {
   height: 10em;
+  width: height*1.779;  
 }
 h1 {
   margin: 10%;
