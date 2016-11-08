@@ -53,5 +53,6 @@ h1,h2,p {
 }
 
 #soc_btn {
-  background-color: gray;
+  background-color: 141b26;
+  box-shadow: 0.01em 0.01em black;
 }
