@@ -20,7 +20,7 @@ input.btn {
   background-color: #333;
 }
 img {
-  height: 5%;
+  height: 0.5%;
   width: height*1.779;  
 }
 h1 {
@@ -34,7 +34,7 @@ h1 {
 }
 #about {
   padding-bottom: 5%;
-  height: 99%;
+  height: width/0.56;
   background-image: url("https://farm6.staticflickr.com/5339/30255095631_93eb1776c8_c.jpg");
   background-size: cover;
 }
@@ -46,7 +46,7 @@ h1 {
 }
 #contact {
   padding-bottom: 5%;
-  height: 99%;
+  height: width/0.56;
   background-image: url("https://farm9.staticflickr.com/8271/30255080501_0b91718442_z.jpg");
   background-size: cover;
 }
