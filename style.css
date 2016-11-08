@@ -32,6 +32,7 @@ h1 {
   color: #06f;
 }
 #about {
+  padding-top: 172px;  
   padding-bottom: 5%;
   height: width*0.75;
   background-image: url("https://farm6.staticflickr.com/5339/30255095631_93eb1776c8_c.jpg");
