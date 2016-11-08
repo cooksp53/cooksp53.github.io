@@ -4,6 +4,8 @@ body {
     margin-bottom: 2em;
     color: white;
     text-shadow: 0.01em 0.01em black;
+    max-width: 1200px;
+    min-width:480px;
     width: auto;
     height: width/0.56;
     }
@@ -18,7 +20,7 @@ input.btn {
   background-color: #333;
 }
 img {
-  height: 10%;
+  height: 10em;
 }
 h1 {
   margin: 10%;
