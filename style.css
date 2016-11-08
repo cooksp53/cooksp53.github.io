@@ -14,35 +14,35 @@ button {
 }
 
 input.btn {
-  margin: 3em;
+  margin: 3%;
   background-color: #333;
 }
 img {
-  height: 10em;
+  height: 10%;
 }
 h1 {
-  margin: 10em;
+  margin: 10%;
 }
  #soc_btn {
-  margin-bottom: 5em;
+  margin-bottom: 5%;
 }
 #send-button{
   color: #06f;
 }
 #about {
-  padding-bottom: 5em;
+  padding-bottom: 5%;
   height: 99%;
   background-image: url("https://farm6.staticflickr.com/5339/30255095631_93eb1776c8_c.jpg");
   background-size: cover;
 }
 #works {
-  padding-bottom: 5em;
+  padding-bottom: 5%;
   height: 99%;
   background-image: url("https://farm6.staticflickr.com/5656/30255094261_3253e80237_b.jpg");
   background-size: cover;
 }
 #contact {
-  padding-bottom: 5em;
+  padding-bottom: 5%;
   height: 99%;
   background-image: url("https://farm9.staticflickr.com/8271/30255080501_0b91718442_z.jpg");
   background-size: cover;
