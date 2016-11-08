@@ -1,20 +1,11 @@
-@media (max-width: 480px) {
-  * {
-    margin: 0em;
-    padding: 0em;
-  }
-}
-* {
-  -webkit-box-sizing: content-box;
-     -moz-box-sizing: content-box;
-          box-sizing: content-box;
-}
+
 body {
     padding-top: 4em; 
     margin-bottom: 2em;
     color: white;
     text-shadow: 0.01em 0.01em black;
-    height: 70em;
+    width: auto;
+    height: width/0.56;
     }
 
 button {
