@@ -1,7 +1,7 @@
 
 body {
     background-color: #373738;
-    color: white;
+    color: #faf9ff;
     max-width: 2000px;
     min-width:480px;
     width: auto;
@@ -23,7 +23,7 @@ img {
 }
 
 h1,h2,p {
-  text-shadow: 0.02em 0.02em black;  
+  text-shadow: 0.02em 0.02em #565656;  
 }
 
 #send-button{
@@ -55,5 +55,5 @@ h1,h2,p {
 #soc_btn {
   background-color: gray;
   border-radius: 1em;
-  box-shadow: 0.5em 0.5em #636363;
+  box-shadow: 0.5em 0.5em #565656;
 }
