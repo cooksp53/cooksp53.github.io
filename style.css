@@ -23,7 +23,7 @@ img {
 }
 
 h1,h2,p {
-  text-shadow: 0.01em 0.01em black;  
+  text-shadow: 0.5em 0.25em black;  
 }
 
 #send-button{
@@ -53,6 +53,6 @@ h1,h2,p {
 }
 
 #soc_btn {
-  background-color: #373738;
-  box-shadow: 0.01em 0.01em black;
+  background-color: #636363;
+  box-shadow: 1em 1em black;
 }
